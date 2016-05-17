@@ -2,7 +2,7 @@
 Gathering howtos
 
 # howto create a howto
-- create if there is a howto of your topic
-- branch this repo
-- create a file if there is none and adding your howto
+- search if there is a howto of your topic
+- branch this repoif there is none 
+- create a file and add your howto
 - create a pull request
