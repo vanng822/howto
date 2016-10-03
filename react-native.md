@@ -11,4 +11,4 @@ npm install -g react-native-cli
 ```
 
 
-Download and install Android Studio. Setting it up directly!
+Download and install Android Studio. Install JDK and Setting it up directly!
