@@ -1,4 +1,4 @@
-= setting for react native development =
+# setting for react native development
 
 http://facebook.github.io/react-native/docs/getting-started.html
 
