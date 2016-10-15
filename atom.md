@@ -1,6 +1,6 @@
-= Atom.io =
+# Atom.io
 
-== Go development ==
+## Go development
 
 To start with install go-plus, gocode
 
