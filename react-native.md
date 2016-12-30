@@ -12,3 +12,18 @@ npm install -g react-native-cli
 
 
 Download and install Android Studio. Install JDK and Setting it up directly!
+
+
+# Run other simulators
+
+List simulators
+
+```bash
+xcrun simctl list devices
+```
+
+Run with specific simulator
+
+```bash
+react-native run-ios --simulator="iPad Air 2"
+```
