@@ -1,4 +1,5 @@
-##Register init script for startup at reboot in Ubuntu
+## Register init script for startup at reboot in Ubuntu
+
 ```shell
 cd /etc/init.d/
 sudo update-rc.d {INIT.D_SCRIPT} defaults
