@@ -8,4 +8,4 @@ Some useful goimports, gometalinter
 
 ## Shotcuts
 
-Disable mac default behaviour for  multiline edit/cursor: unchecking "System Preferences > Keyboard > Shortcuts > Mission Control"
+Disable mac default behaviour for  multiline edit/cursor: unchecking "System Preferences > Keyboard > Shortcuts > Mission Control" and "System Preferences > Keyboard > Shortcuts > Application Windows"
