@@ -1,6 +1,6 @@
 ## Cache and its Hit Rate
 
-```bash
+```sql
 SELECT
   sum(heap_blks_read) as heap_read,
   sum(heap_blks_hit)  as heap_hit,
@@ -12,7 +12,7 @@ FROM
 The ratio should no less than 99%
 
 ## Index usage
-```bash
+```sql
 SELECT
   relname,
   100 * idx_scan / (seq_scan + idx_scan) percent_of_times_index_used,
@@ -29,7 +29,7 @@ if you’re not somewhere around 99% on any table over 10,000 rows you may want 
 
 ## Index Cache Hit Rate
 
-```bash
+```sql
 SELECT
   sum(idx_blks_read) as idx_read,
   sum(idx_blks_hit)  as idx_hit,
