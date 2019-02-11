@@ -34,3 +34,9 @@ docker logs -f CONTAINER_ID
 ```bash
 docker exec -it CONTAINER_ID /bin/bash
 ```
+
+### Inspect configuration
+
+```bash
+docker inspect CONTAINER_ID
+```
